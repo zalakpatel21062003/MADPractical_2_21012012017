@@ -8,11 +8,11 @@ AIM: Create Activity to display “Hello World” in TextView in the center of A
 
 ![Screenshot (253)](https://user-images.githubusercontent.com/110719677/188044520-8a31fab6-2605-46bf-9f33-deca70e1c147.png)
 
+![Screenshot (254)](https://user-images.githubusercontent.com/110719677/188044815-8b1354b9-6fb8-4271-8b6e-7ca5281aa7e0.png)
+
 ![Screenshot (256)](https://user-images.githubusercontent.com/110719677/188044594-c1d08502-63f8-45ce-8b5c-dad72d7dca29.png)
 
 ![Screenshot (255)](https://user-images.githubusercontent.com/110719677/188044776-51a1a3bb-51fc-4fc3-8550-6cd025e83846.png)
-
-![Screenshot (254)](https://user-images.githubusercontent.com/110719677/188044815-8b1354b9-6fb8-4271-8b6e-7ca5281aa7e0.png)
 
 ![Screenshot (260)](https://user-images.githubusercontent.com/110719677/188044940-35fde804-0d76-441f-b2e2-08287fcca89c.png)
 
